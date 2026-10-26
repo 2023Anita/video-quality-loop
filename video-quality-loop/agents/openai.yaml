@@ -1,0 +1,4 @@
+interface:
+  display_name: "视频高完成度自审"
+  short_description: "以叙事、画面、运动、剪辑和声音检查实际成片，定点修复并复验"
+  default_prompt: "使用 $video-quality-loop 制作或优化视频，按质量维度检查实际成片并迭代修复，交付可播放结果与验证说明。"
